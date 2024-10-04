@@ -1,0 +1,13 @@
+{
+  "name": "shared-eslint-config",
+  "version": "1.0.0",
+  "description": "My personal js/ts formatting and styling preferences.",
+  "main": "config.js",
+  "peerDependencies": {
+    "@eslint/js": "^9.10.0",
+    "@stylistic/eslint-plugin": "^2.7.2",
+    "@types/eslint__js": "^8.42.3",
+    "eslint": "^9.10.0",
+    "typescript-eslint": "^8.4.0"
+  }
+}
